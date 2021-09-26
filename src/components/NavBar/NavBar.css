@@ -1,0 +1,19 @@
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px; 
+}
+
+.nav-brand {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  list-style-type: none;
+}
+
+.nav-list-item {
+  display: inline;
+  padding: 5px;
+}
