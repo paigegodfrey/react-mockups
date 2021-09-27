@@ -1,6 +1,7 @@
 .NavBar {
   display: flex;
   justify-content: space-between;
+  box-sizing: border-box;
   padding: 0 10px; 
   border-bottom: 1px solid black;
   height: 50px;

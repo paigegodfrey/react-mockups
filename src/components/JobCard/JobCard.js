@@ -1,7 +1,6 @@
 import "./JobCard.css";
 
 const JobCard = job => {
-  console.log(job);
   const { title, description, salary, equity } = job.job;
 
   return (

@@ -26,10 +26,9 @@ const Jobs = () => {
     },
   ]
 
-  console.log(jobs);
-
   return (
     <div className='Jobs'>
+      <h1>These jobs are available!</h1>
       <div className="jobs-container">
         {jobs.map(j => (
           <JobCard job={j} key={j.id} />
