@@ -1,0 +1,7 @@
+.JobCard {
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  margin: 10px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,10 @@
+.Jobs {
+  margin-top: 50px;
+  height: calc(100vh - 152px);
+}
+
+.jobs-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
